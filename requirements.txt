@@ -39,7 +39,7 @@ h11==0.12.0; python_version >= "3.6" and python_version < "4"
 httpcore==0.13.7; python_version >= "3.6" and python_version < "4"
 httptools==0.2.0
 httpx==0.23.0; python_version >= "3.6" and python_version < "4"
-hypothesis==6.21.6; python_version >= "3.6"
+hypothesis==6.46.11; python_version >= "3.6"
 idna==3.3; python_full_version >= "3.6.2" and python_version >= "3.6" and python_version < "4"
 inflect==5.6.0; python_version >= "3.6"
 ioc-fanger==3.4.1
