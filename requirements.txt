@@ -41,7 +41,7 @@ httptools==0.2.0
 httpx==0.23.0; python_version >= "3.6" and python_version < "4"
 hypothesis==6.21.6; python_version >= "3.6"
 idna==3.2; python_full_version >= "3.6.2" and python_version >= "3.6" and python_version < "4"
-inflect==5.3.0; python_version >= "3.6"
+inflect==5.6.0; python_version >= "3.6"
 ioc-fanger==3.4.1
 ioc-finder==6.0.1
 loguru==0.5.3; python_version >= "3.5"
