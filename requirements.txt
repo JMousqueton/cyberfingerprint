@@ -87,6 +87,6 @@ watchgod==0.7; python_version >= "3.5"
 websockets==10.0; python_version >= "3.7"
 werkzeug==2.0.1; python_version >= "3.6"
 whodap==0.1.2; python_version >= "3.6" and python_version < "4"
-whois-parser==0.1.0; python_version >= "3.8" and python_version < "4.0"
+whois-parser==0.1.4; python_version >= "3.8" and python_version < "4.0"
 whois==0.9.13
 win32-setctime==1.0.3; sys_platform == "win32" and python_version >= "3.5"
