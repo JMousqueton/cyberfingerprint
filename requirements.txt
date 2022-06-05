@@ -31,7 +31,7 @@ dataclasses-json==0.5.7; python_version >= "3.8" and python_version < "4.0"
 dateparser==1.1.1; python_version >= "3.8" and python_version < "4.0"
 dictdiffer==0.9.0
 fastapi-utils==0.2.1; python_version >= "3.6" and python_version < "4.0"
-fastapi==0.68.1; python_version >= "3.6"
+fastapi==0.78.0; python_version >= "3.6"
 filelock==3.0.12; python_version >= "3.6"
 greenlet==1.1.2; python_version >= "3" and python_full_version < "3.0.0" and (platform_machine == "arch64" or platform_machine == "ppc64le" or platform_machine == "x86_64" or platform_machine == "amd64" or platform_machine == "win32" or platform_machine == "WIN32") and (python_version >= "3.6" and python_full_version < "3.0.0" and python_version < "4.0" or python_version >= "3.6" and python_version < "4.0" and python_full_version >= "3.6.0") or python_version >= "3" and (platform_machine == "arch64" or platform_machine == "ppc64le" or platform_machine == "x86_64" or platform_machine == "amd64" or platform_machine == "win32" or platform_machine == "WIN32") and (python_version >= "3.6" and python_full_version < "3.0.0" and python_version < "4.0" or python_version >= "3.6" and python_version < "4.0" and python_full_version >= "3.6.0") and python_full_version >= "3.5.0"
 gunicorn==20.1.0; python_version >= "3.5"
