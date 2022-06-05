@@ -35,7 +35,7 @@ fastapi==0.78.0; python_version >= "3.6"
 filelock==3.0.12; python_version >= "3.6"
 greenlet==1.1.2; python_version >= "3" and python_full_version < "3.0.0" and (platform_machine == "arch64" or platform_machine == "ppc64le" or platform_machine == "x86_64" or platform_machine == "amd64" or platform_machine == "win32" or platform_machine == "WIN32") and (python_version >= "3.6" and python_full_version < "3.0.0" and python_version < "4.0" or python_version >= "3.6" and python_version < "4.0" and python_full_version >= "3.6.0") or python_version >= "3" and (platform_machine == "arch64" or platform_machine == "ppc64le" or platform_machine == "x86_64" or platform_machine == "amd64" or platform_machine == "win32" or platform_machine == "WIN32") and (python_version >= "3.6" and python_full_version < "3.0.0" and python_version < "4.0" or python_version >= "3.6" and python_version < "4.0" and python_full_version >= "3.6.0") and python_full_version >= "3.5.0"
 gunicorn==20.1.0; python_version >= "3.5"
-h11==0.12.0; python_version >= "3.6" and python_version < "4"
+h11==0.13.0; python_version >= "3.6" and python_version < "4"
 httpcore==0.13.7; python_version >= "3.6" and python_version < "4"
 httptools==0.2.0
 httpx==0.23.0; python_version >= "3.6" and python_version < "4"
