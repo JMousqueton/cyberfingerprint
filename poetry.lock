@@ -754,7 +754,7 @@ pyparsing = "*"
 
 [[package]]
 name = "ioc-finder"
-version = "6.0.1"
+version = "7.0.0"
 description = "Python package for finding and parsing indicators of compromise from text."
 category = "main"
 optional = false
@@ -762,9 +762,9 @@ python-versions = "*"
 
 [package.dependencies]
 click = ">=7.1.2,<9.0"
-d8s-strings = "0.5.0"
-ioc-fanger = "3.3.0"
-pyparsing = "2.4.7"
+d8s-strings = ">=0.5.0,<1.0"
+ioc-fanger = ">=3.0,<4.0"
+pyparsing = ">=2.4.7,<3.0"
 
 [[package]]
 name = "isort"
@@ -1638,7 +1638,7 @@ testing = ["pytest (>=4.6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytes
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "f3ec0c33ebb91cab2033af3dd69e78f8e189c695806cabc9b6523f6bab486c29"
+content-hash = "75f2b0b019e680c1a9e4a5d6ce73c827c530989cf15a277e6a742cd78c275934"
 
 [metadata.files]
 aiodns = [
@@ -2080,8 +2080,8 @@ ioc-fanger = [
     {file = "ioc_fanger-3.3.0.tar.gz", hash = "sha256:026b61493257ee762196f8f355c934d58683324ee73ab6f5455734ce66389b86"},
 ]
 ioc-finder = [
-    {file = "ioc_finder-6.0.1-py2.py3-none-any.whl", hash = "sha256:416cfd3a47ce66bc84070960a53be6642dc1f2d7b2faf36ae0401d4471cb3c2b"},
-    {file = "ioc_finder-6.0.1.tar.gz", hash = "sha256:15979dc1bf3b54df64d8343f61423f53660cca71dd0042529bec5e9f26ec1802"},
+    {file = "ioc_finder-7.0.0-py2.py3-none-any.whl", hash = "sha256:d6a81e79b7a16debb3118f665e8d7a9541b00c06b8d24ce9b509270e53b536f7"},
+    {file = "ioc_finder-7.0.0.tar.gz", hash = "sha256:96c4a3a5ad716583ae87c68ee229f9d6fcbe711e6470e5ba48c3c93672b18f3e"},
 ]
 isort = [
     {file = "isort-5.9.3-py3-none-any.whl", hash = "sha256:e17d6e2b81095c9db0a03a8025a957f334d6ea30b26f9ec70805411e5c7c81f2"},
