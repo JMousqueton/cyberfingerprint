@@ -81,7 +81,7 @@ typing-inspect==0.7.1; python_version >= "3.8" and python_version < "4.0"
 tzdata==2021.5; python_version >= "3.8" and python_version < "4.0" and platform_system == "Windows"
 tzlocal==3.0; python_version >= "3.8" and python_version < "4.0"
 urllib3==1.26.9; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.6.0" and python_version < "4" and python_version >= "3.6"
-uvicorn==0.15.0
+uvicorn==0.17.6
 uvloop==0.16.0; sys_platform != "win32" and sys_platform != "cygwin" and platform_python_implementation != "PyPy" and python_version >= "3.7"
 watchgod==0.7; python_version >= "3.5"
 websockets==10.0; python_version >= "3.7"
