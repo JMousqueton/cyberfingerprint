@@ -75,7 +75,7 @@ sqlalchemy==1.4.37; python_version >= "3.6" and python_full_version < "3.0.0" an
 starlette==0.20.1; python_version >= "3.6" and python_version < "4.0"
 sympy==1.10.1; python_version >= "3.6"
 tldextract==3.3.0; python_version >= "3.6"
-tomlkit==0.5.11; python_version >= "3.8" and python_full_version < "3.0.0" and python_version < "4.0" or python_version >= "3.8" and python_version < "4.0" and python_full_version >= "3.4.0"
+tomlkit==0.11.0; python_version >= "3.8" and python_full_version < "3.0.0" and python_version < "4.0" or python_version >= "3.8" and python_version < "4.0" and python_full_version >= "3.4.0"
 typing-extensions==3.10.0.2; python_full_version >= "3.6.1" and python_version >= "3.8" and python_version < "4.0"
 typing-inspect==0.7.1; python_version >= "3.8" and python_version < "4.0"
 tzdata==2021.1; python_version >= "3.8" and python_version < "4.0" and platform_system == "Windows"
