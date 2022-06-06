@@ -20,7 +20,7 @@ mmh3 = "^3.0.0"
 pyOpenSSL = "^20.0.1"
 requests = {extras = ["security"], version = "^2.26.0"}
 tldextract = "^3.1.2"
-uvicorn = {extras = ["standard"], version = "^0.15.0"}
+uvicorn = {extras = ["standard"], version = "^0.17.0"}
 whois-parser = "^0.1.0"
 
 [tool.poetry.dev-dependencies]
