@@ -1,6 +1,6 @@
 aiodns==3.0.0
 aiofiles==0.8.0; python_version >= "3.6" and python_version < "4.0"
-anyio==3.6.1; python_version >= "3.6" and python_version < "4" and python_full_version >= "3.6.2"
+anyio==3.6.2; python_version >= "3.6" and python_version < "4" and python_full_version >= "3.6.2"
 asgiref==3.5.2; python_version >= "3.6"
 asyncwhois==1.0.1; python_version >= "3.6"
 atomicwrites==1.4.0; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.4.0"
