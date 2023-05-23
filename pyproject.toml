@@ -18,7 +18,7 @@ ioc-finder = "^7.0.0"
 loguru = "^0.6.0"
 mmh3 = "^3.0.0"
 pyOpenSSL = "^22.0.0"
-requests = {extras = ["security"], version = "^2.26.0"}
+requests = {extras = ["security"], version = "^2.31.0"}
 tldextract = "^3.1.2"
 uvicorn = {extras = ["standard"], version = "^0.17.0"}
 whois-parser = "^0.1.0"
