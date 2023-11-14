@@ -85,7 +85,7 @@ uvicorn==0.17.6
 uvloop==0.16.0; sys_platform != "win32" and sys_platform != "cygwin" and platform_python_implementation != "PyPy" and python_version >= "3.7"
 watchgod==0.8.2; python_version >= "3.5"
 websockets==10.3; python_version >= "3.7"
-werkzeug==2.2.3; python_version >= "3.6"
+werkzeug==2.3.8; python_version >= "3.6"
 whodap==0.1.5; python_version >= "3.6" and python_version < "4"
 whois-parser==0.1.4; python_version >= "3.8" and python_version < "4.0"
 whois==0.9.15
