@@ -72,7 +72,7 @@ sniffio==1.2.0; python_version >= "3.6" and python_version < "4" and python_full
 sortedcontainers==2.4.0; python_version >= "3.6"
 soupsieve==2.3.2.post1; python_version >= "3.6" and python_full_version > "3.0.0"
 sqlalchemy==1.4.37; python_version >= "3.6" and python_full_version < "3.0.0" and python_version < "4.0" or python_version >= "3.6" and python_version < "4.0" and python_full_version >= "3.6.0"
-starlette==0.25.0; python_version >= "3.6" and python_version < "4.0"
+starlette==0.40.0; python_version >= "3.6" and python_version < "4.0"
 sympy==1.10.1; python_version >= "3.6"
 tldextract==3.3.0; python_version >= "3.6"
 tomlkit==0.11.0; python_version >= "3.8" and python_full_version < "3.0.0" and python_version < "4.0" or python_version >= "3.8" and python_version < "4.0" and python_full_version >= "3.4.0"
