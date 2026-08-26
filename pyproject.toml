@@ -38,7 +38,7 @@ pytest-mock = "^3.6.1"
 pytest-randomly = "^3.10.1"
 pytest-sugar = "^0.9.4"
 pyupgrade = "^2.25.1"
-vcrpy = "^4.1.1"
+vcrpy = "^8.0.0"
 
 [tool.isort]
 multi_line_output = 3
